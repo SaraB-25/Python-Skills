@@ -11,10 +11,10 @@
 ## 🔍 Key Steps in Analysis
 - First, we have to mount the drive to Google Collaboratory and run it
 
-  <img width="695" height="163" alt="image" src="https://github.com/user-attachments/assets/112cd376-66cc-4e75-a7f2-7b97f91f92e0" />
+<img width="695" height="163" alt="image" src="https://github.com/user-attachments/assets/112cd376-66cc-4e75-a7f2-7b97f91f92e0" />
 
-  - Once mounted, we have been demonstrating several codes to clean and manipulate the db.
-  -  Below are examples of the tasks we did,
+- Once mounted, we have been demonstrating several codes to clean and manipulate the db.
+- Below are examples of the tasks we did,
     
 ### Loading and Exploring the Data
 1.	Question: "Write the code to read a CSV file into a Pandas DataFrame."
@@ -29,10 +29,16 @@
 2.	Question: "Write the code to select the 'name' and 'mark' columns."
 3.	Question: "Write the code to select the first 3 rows."
 4.	Question: "Write the code to select all rows where the 'class' is 'Four'."
+   
+   <img width="981" height="536" alt="image" src="https://github.com/user-attachments/assets/2d7201dd-8686-4347-95e7-05e2f3661b3b" />
+
 ### Data Manipulation
 1.	Question: "Write the code to add a new column 'passed' that indicates whether the student passed (mark >= 60)."
 2.	Question: "Write the code to rename the 'mark' column to 'score'."
 3.	Question: "Write the code to drop the 'passed' column."
+
+ <img width="981" height="381" alt="image" src="https://github.com/user-attachments/assets/8acc8847-8d94-43b1-af18-7c3529042c93" />
+
 
 ### Aggregation and Grouping
 1.	Question: "Write the code to group the DataFrame by the 'class' column and calculate the mean 'mark' for each group."
